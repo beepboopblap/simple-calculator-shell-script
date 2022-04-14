@@ -7,7 +7,7 @@
 
 1. fire up your terminal and then clone this repository
 ```
-git clone https://github.com/beepboopblap/simple-calculator-bashscripting
+git clone https://github.com/beepboopblap/simple-calculator-shell-script
 ```
 3. cd into the folder using:
 ```
